@@ -1,1 +1,1 @@
-# lan-agile-planning
+# lab-agile-planning
